@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evee", "Evee\Evee.csproj", "{49D74BD2-82A2-4961-9601-597CDB72C181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D74BD2-82A2-4961-9601-597CDB72C181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D74BD2-82A2-4961-9601-597CDB72C181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D74BD2-82A2-4961-9601-597CDB72C181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D74BD2-82A2-4961-9601-597CDB72C181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6856FC0E-93BD-4953-88A3-E5B7E49FCBF1}
+	EndGlobalSection
+EndGlobal
